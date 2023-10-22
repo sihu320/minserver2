@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(
     page_title= 'minecraft map',
-    page_icon= 'img\minecraftemg.png'
+    page_icon= 'minecraftemg.png'
 )
 lab1 = '측면'
 lab2 = '정면 3층'
