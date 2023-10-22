@@ -7,6 +7,6 @@ lab1 = '측면'
 lab2 = '정면 3층'
 
 with st.expander(label=lab1):
-    st.image('img\sideview.png',use_column_width=True)
+    st.image('sideview.png',use_column_width=True)
 with st.expander(label=lab2):
-    st.image('img\Frontview.png',use_column_width=True)
+    st.image('Frontview.png',use_column_width=True)
